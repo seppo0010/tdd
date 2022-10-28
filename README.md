@@ -40,7 +40,7 @@ graph TD
     Vencible --> |Sí| Inconsciente{{"Culpa inconsciente"}}
     Cognitivo --> |Sí| Volitivo>"¿Se representó el resultado?"]
     Volitivo --> |No| Inconsciente
-    Volitivo --> |Sí| Fin>"¿El resultado era el<br>fin de su acción,<br>un daño colateral,<br>obró con indiferencia<br> o pensó que no se daría el resultado?"]
+    Volitivo --> |Sí| Fin>"¿El resultado era el<br>fin de su acción,<br>un daño colateral,<br>obró con indiferencia<br> o pensó que no se daría?"]
     Fin --> |Fin| DD{{"Dolo directo"}}
     Fin --> |Daño colateral| DC{{"Dolo indirecto"}}
     Fin --> |Indiferencia| DE{{"Dolo eventual"}}
